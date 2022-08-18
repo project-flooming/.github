@@ -8,7 +8,7 @@
 
 ## Using Techs
 ### Android
-```JavaScript``` ```React Native``` ```Axios``` ```MUI```
+```JavaScript``` ```React Native``` ```Axios```
 
 
 ### iOS
