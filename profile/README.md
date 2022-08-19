@@ -12,7 +12,7 @@
 
 
 ### iOS
-```Swift``` ```Alamofire```
+```Swift``` ```Alamofire``` ```Mantis``` ```lottie-ios``` ```SnapKit``` ```Gifu``` ```SwiftyJSON```
 
 ### REST API Server
 ```Python``` ```FastAPI``` ```SqlAlchemy``` ```AWS EC2``` ```AWS RDS``` ```MySQL```
